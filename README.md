@@ -23,11 +23,10 @@ To get a local copy up and running follow these simple example steps.
 - For usage ensure you have ruby installed
 
 ### Setup
-Clone repository from Github to your local drive by following these steps:
 
 * Copy this link [My-Scraper](https://github.com/mahbubul14/my_scraper/tree/scraper)
 * Open your terminal or command line in the folder you want the project to be
-* Open the terminal and run <code>git clone https://github.com/mahbubul14/my_scraper.git​​​​​​​</code>
+* Run the command git clone with the link you copied above <code>git clone https://github.com/mahbubul14/my_scraper.git​​​​​​​</code>
 * Once you have a local copy, run bundle install to install all gemfiles in the directory
 
 ### Install
