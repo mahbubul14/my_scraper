@@ -1,7 +1,4 @@
 #!/usr/bin/ruby
-
-require 'httparty'
-require 'nokogiri'
 require_relative '../lib/logics'
 
 scraper = Scraper.new
