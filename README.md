@@ -28,11 +28,8 @@ Clone repository from github to your local drive by following these steps:
 * Go to the main page of the repository
 * Above the listed files, click the green Code button
 * You can clone the repository using:
-* SSH: git@github.com:mahbubul14/my_scraper.git.
-* Open Terminal
-* Change the current working directory to the location you want the cloned * directory
-* Type one of the git clone commands listed above.
-* Press Enter to create your local clone
+* Open the terminul and run <code>git clone https://github.com/mahbubul14/my_scraper.git​​​​​​​</code>
+* Once you have a local copy, run bundle install to install all gemfiles in the directory
 
 ### Install
 - Ruby 
@@ -41,12 +38,8 @@ Clone repository from github to your local drive by following these steps:
 ## Running the Project
 
 * Open your terminal
-
-* Navigate to project directory
-
-* Enter 'bundle' in your terminal.
-
-* Enter ruby ./bin/main.rb in your terminal and press Enter.
+* Enter <code>ruby ./bin/main.rb</code> in your terminal and press Enter.
+* Run the following command <code>bundle exec rspec</code> or <code>rspec</code> in the terminal to run all tests in the directory
 
 
 ## Authors
