@@ -2,7 +2,7 @@
 
 # RUBY CAPSTONE: MY_SCRAPER
 
-In this project, I was asked to use ruby for scraping websites and to get information. I decided to get info of NIKE products from https://www.nike.com/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok. The project is capable of getting information right from your terminal. You can view available products and their prices whenever you need
+In this project, I was asked to use ruby for scraping websites and to get information. I decided to get info on NIKE products from https://www.nike.com/w/mens-nike-by-you-lifestyle-shoes-13jrmz6ealhznik1zy7ok. The project is capable of getting the information right from your terminal. You can view available products and their prices whenever you need
 
 ## Built With
 
@@ -23,12 +23,12 @@ To get a local copy up and running follow these simple example steps.
 - For usage ensure you have ruby installed
 
 ### Setup
-Clone repository from github to your local drive by following these steps:
+Clone repository from Github to your local drive by following these steps:
 
 * Go to the main page of the repository
 * Above the listed files, click the green Code button
 * You can clone the repository using:
-* Open the terminul and run <code>git clone https://github.com/mahbubul14/my_scraper.git​​​​​​​</code>
+* Open the terminal and run <code>git clone https://github.com/mahbubul14/my_scraper.git​​​​​​​</code>
 * Once you have a local copy, run bundle install to install all gemfiles in the directory
 
 ### Install
