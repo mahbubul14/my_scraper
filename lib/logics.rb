@@ -1,9 +1,3 @@
-class Cal
-  def add (a,b)
-    a + b
-  end
-end
-
 class Scraper
   attr_accessor :parse_page
 
